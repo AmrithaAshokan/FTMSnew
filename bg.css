@@ -1,7 +1,7 @@
-table {
-  font-size: 100px;
+body{
+  overflow-x: hidden;
 }
-table tr td {
+td {
   padding-right: 2.95em;
   padding-bottom: 2em;
   font-size: 3rem;
